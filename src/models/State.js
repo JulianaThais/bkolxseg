@@ -2,8 +2,9 @@ const mongoose = require('mongoose');
 mongoose.Promise = global.Promise;
 
 const modelSchema = new mongoose.Schema({
-	name: String
-	
+	name: String,
+    contry: String
+
 });
 
 const modelName = 'State';
