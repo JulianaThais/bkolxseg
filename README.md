@@ -8,7 +8,6 @@ Projetos do curso B7Web
 
 Utilizado em aulas nos cursos:
 Dev FullStack JS da Soitech
-Disciplina Desenvolvimento WEB 2, curso ADS, do IFSP, campus Caraguatatuba
 
 Autor: Juliana Veloso
 
